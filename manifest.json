@@ -1,5 +1,5 @@
 {
-	"manifest_version": 3,
+	"manifest_version": 2,
 	"name": "Rick Roll Detector",
 	"version": "1.0",
 	"description": "Tiny extension to warn you if a page is trying to Rick Roll you.",

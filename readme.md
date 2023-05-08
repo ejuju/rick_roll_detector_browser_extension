@@ -8,6 +8,7 @@ Todo:
 - [ ] Add button to disable checks on a page
 - [ ] Show alert notification when at least one Rick Roll attempt is detected on the current page
 - [ ] Add manifest icon(s)
+- [ ] Check why manifest_version 3 doesnt work on firefox
 
 Build:
 ```bash

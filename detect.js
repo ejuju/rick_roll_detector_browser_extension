@@ -22,6 +22,7 @@ rickRollUrls.forEach(url => {
 	// Add prefix warning text to link if Rick Roll attempt
 	let numRickRollAttemps = 0
 	linkEls.forEach(linkEl => {
+		console.log(linkEl.innerHTML)
 		if (isLegitimateLink(linkEl)) return // Exclude legitimate links
 		linkEl.innerText = `RICK ROLL WARNING: ${linkEl.innerText}`
 		numRickRollAttemps++
