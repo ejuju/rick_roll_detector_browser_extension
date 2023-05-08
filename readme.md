@@ -1,4 +1,4 @@
-# Firefox Extension to detect Rick Roll attemps
+# Protect yourself from Rick Rolls
 
 This extension will add a warning text before links to Rick Astley's Never Gonna Give You Up.
 
